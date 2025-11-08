@@ -4,3 +4,4 @@ Content/** filter=lfs diff=lfs merge=lfs -text
 .fbx filter=lfs diff=lfs merge=lfs -text
 .png filter=lfs diff=lfs merge=lfs -text
 LostPattern/Contentgit[[:space:]]lfs[[:space:]]track[[:space:]]LostPatternContent" filter=lfs diff=lfs merge=lfs -text
+LostPattern/Contentgit[[:space:]]lfs[[:space:]]track[[:space:]]LostPattern" filter=lfs diff=lfs merge=lfs -text
