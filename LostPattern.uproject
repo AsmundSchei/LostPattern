@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.5",
 	"Category": "",
-	"Description": "",
+	"Description": "Submission to the GitHub Game Off 2025 gamejam",
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
