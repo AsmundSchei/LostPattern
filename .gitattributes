@@ -6,3 +6,4 @@ Content/** filter=lfs diff=lfs merge=lfs -text
 LostPattern/Contentgit[[:space:]]lfs[[:space:]]track[[:space:]]LostPatternContent" filter=lfs diff=lfs merge=lfs -text
 LostPattern/Contentgit[[:space:]]lfs[[:space:]]track[[:space:]]LostPattern" filter=lfs diff=lfs merge=lfs -text
 .bin filter=lfs diff=lfs merge=lfs -text
+LostPattern/Content/Fab/�_Survival_Character_FREE filter=lfs diff=lfs merge=lfs -text
